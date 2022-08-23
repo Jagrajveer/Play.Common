@@ -1,0 +1,12 @@
+D:\programming\C#\Microservices\Play.Common\src\Play.Common.Service\Play.Common.Service\bin\Debug\net6.0\Play.Common.Service.deps.json
+D:\programming\C#\Microservices\Play.Common\src\Play.Common.Service\Play.Common.Service\bin\Debug\net6.0\Play.Common.Service.dll
+D:\programming\C#\Microservices\Play.Common\src\Play.Common.Service\Play.Common.Service\bin\Debug\net6.0\Play.Common.Service.pdb
+D:\programming\C#\Microservices\Play.Common\src\Play.Common.Service\Play.Common.Service\obj\Debug\net6.0\Play.Common.Service.csproj.AssemblyReference.cache
+D:\programming\C#\Microservices\Play.Common\src\Play.Common.Service\Play.Common.Service\obj\Debug\net6.0\Play.Common.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\Microservices\Play.Common\src\Play.Common.Service\Play.Common.Service\obj\Debug\net6.0\Play.Common.Service.AssemblyInfoInputs.cache
+D:\programming\C#\Microservices\Play.Common\src\Play.Common.Service\Play.Common.Service\obj\Debug\net6.0\Play.Common.Service.AssemblyInfo.cs
+D:\programming\C#\Microservices\Play.Common\src\Play.Common.Service\Play.Common.Service\obj\Debug\net6.0\Play.Common.Service.csproj.CoreCompileInputs.cache
+D:\programming\C#\Microservices\Play.Common\src\Play.Common.Service\Play.Common.Service\obj\Debug\net6.0\Play.Common.Service.dll
+D:\programming\C#\Microservices\Play.Common\src\Play.Common.Service\Play.Common.Service\obj\Debug\net6.0\refint\Play.Common.Service.dll
+D:\programming\C#\Microservices\Play.Common\src\Play.Common.Service\Play.Common.Service\obj\Debug\net6.0\Play.Common.Service.pdb
+D:\programming\C#\Microservices\Play.Common\src\Play.Common.Service\Play.Common.Service\obj\Debug\net6.0\ref\Play.Common.Service.dll
